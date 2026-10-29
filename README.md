@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Math+Software-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 SMath Studio Free Installer** — SMath Studio is a free mathematical software with a WYSIWYG interface for creating and solving mathematical expressions. Works without internet access, no account required. Full offline installation.
+**💻 SMath Studio Free Installer** — SMath Studio is a free math software with a paper-like interface for creating and solving mathematical equations. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About SMath Studio
 
-SMath Studio is a free mathematical software with a WYSIWYG interface for creating and solving mathematical expressions. Write equations naturally as they appear on paper, create calculation sheets, and solve systems of equations symbolically and numerically. SMath Studio supports units, matrices, and plugins, making it useful for engineering students, physicists, and mathematicians who need a free Mathcad alternative.
+SMath Studio is a free math software with a paper-like interface for creating and solving mathematical equations. It supports symbolic and numeric calculations, unit conversions, plots, and matrix operations — a free alternative to Mathcad.
 
 ---
 
 ## ❌ Problem: SMath Studio is hard to access
 
-- **Windows Primary** — Best supported on Windows; other platforms have limitations
-- **Documentation Gaps** — Some advanced features lack comprehensive documentation
-- **Performance** — Complex symbolic calculations slower than commercial alternatives
-- **Plugin Quality** — Community plugins vary in quality and maintenance
+- **Limited Community** — Smaller user base than MATLAB, Octave, or Mathcad
+- **Performance** — Complex symbolic computations can be slow
+- **Windows-Primary** — Cross-platform versions less polished
+- **Documentation** — Help resources sparse compared to commercial math software
 
 ---
 
@@ -121,7 +121,7 @@ SMath Studio is a free mathematical software with a WYSIWYG interface for creati
 
 ---
 
-**SMath Studio Free Installer** — SMath Studio is a free mathematical software with a WYSIWYG interface for creating and solving mathematical expressions. Install without internet connection today!
+**SMath Studio Free Installer** — SMath Studio is a free math software with a paper-like interface for creating and solving mathematical equations. Install without internet connection today!
 
 <div align="center">
 
